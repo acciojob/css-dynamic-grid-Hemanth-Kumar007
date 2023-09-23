@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+.grid_item{
+	background-color: lightgray;
+	height: 150px;
+	width: 200px;
+	
+}
